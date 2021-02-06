@@ -2,4 +2,4 @@
 
 ### Technologies Used:- HTML, CSS and pure Vanilla Javascript.
 
-### Find me on Instagram - @electrifying_
+### Find me on Instagram - @electrifying_codes.
